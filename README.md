@@ -1,2 +1,1 @@
-#Acelera Dev - DATA SCIENCE 
-## Codenation
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodenation.dev%2Faceleradev%2Fds-online-1%2F&psig=AOvVaw0YUiFdHbhva73sbZmLhwwV&ust=1593726794033000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCAg4-FreoCFQAAAAAdAAAAABAD)
