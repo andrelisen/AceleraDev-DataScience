@@ -1,8 +1,8 @@
 # Curso AceleraDev Data Science - Codenation
 > Neste repositório está contido a minha trajetória no Curso de Data Science online e gratuito disponibilizado pela Codenation com o apoio das empresas CI&T, Conta Azul, Guia Bolso, PagueVeloz, Rocket.Chat, Sanar, Nexfar, Senior, Voyager e Itaú.  
-[![Python 3][npm-image]][npm-url]
-[![Jupyter Notebook][travis-image]][travis-url]
-[![Anaconda][travis-image]][travis-url]
+[![Python 3]][npm-url]
+[![Jupyter Notebook]][travis-url]
+[![Anaconda]][travis-url]
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
