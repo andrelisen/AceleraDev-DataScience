@@ -1,6 +1,7 @@
-<img src="./header.jpg" align="center" ></img>
+<img src="./header.png" align="center" ></img>
 
-> Neste repositório está contido a minha trajetória no Curso de Data Science online e gratuito disponibilizado pela Codenation com o apoio das empresas CI&T, Conta Azul, Guia Bolso, PagueVeloz, Rocket.Chat, Sanar, Nexfar, Senior, Voyager e Itaú.  
+Neste repositório está contido a minha trajetória no Curso de Data Science online e gratuito disponibilizado pela Codenation com o apoio das empresas CI&T, Conta Azul, Guia Bolso, PagueVeloz, Rocket.Chat, Sanar, Nexfar, Senior, Voyager e Itaú.  
+
 
 <img alt= "Custom badge" src="https://img.shields.io/badge/Python%203-https%3A%2F%2Fwww.python.org%2F-blue" align="center">
 
@@ -23,4 +24,6 @@ Para maiores informações e novas turmas de acelerações basta entrar em: http
 * Semana 3
     * Análise de dados exploratória
 * Semana 4
+    * Continuação da análise de dados exploratória e revisão de probabilidade e estatística
+* Semana 5
     * .
