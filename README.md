@@ -26,4 +26,12 @@ Para maiores informações e novas turmas de acelerações basta entrar em: http
 * Semana 4
     * Continuação da análise de dados exploratória e revisão de probabilidade e estatística
 * Semana 5
-    * .
+    * Pensamento estatístico em Python
+* Semana 6
+    * Continuação Pensamento estatístico
+* Semana 7
+    * Engenharia de Features
+* Semana 8
+    * Regressão
+* Semana 9
+    * Classificação
